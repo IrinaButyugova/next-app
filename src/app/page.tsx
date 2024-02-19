@@ -8,7 +8,6 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-   
-    <Link href="/dashboard">Dashboard</Link>
+    <div></div>
   );
 }
